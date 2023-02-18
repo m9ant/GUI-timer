@@ -1,4 +1,4 @@
-package com.calc;
+package com.timer;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

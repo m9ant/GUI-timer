@@ -1,4 +1,4 @@
-package com.calc;
+package com.timer;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
