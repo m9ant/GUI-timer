@@ -3,6 +3,6 @@ module com.calc.calc {
     requires javafx.fxml;
 
 
-    opens com.calc.calc to javafx.fxml;
-    exports com.calc.calc;
+    opens com.calc to javafx.fxml;
+    exports com.calc;
 }
